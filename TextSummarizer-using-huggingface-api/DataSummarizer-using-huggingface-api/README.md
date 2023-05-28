@@ -14,6 +14,6 @@ This is my nlp project where i have used huggingface tranformers text summarizer
 7.Enjoy in localhost i.e http://127.0.0.1 
 ##### Note: Remember to change the host name from 0.0.0.0 to 127.0.0.1 in app.run() section.
 <br>
-If you face any problem in this contact me https://rohanpatankar.netlify.app/
+
 <br>
 Thankyou
